@@ -1,0 +1,39 @@
+#jumbotron{
+	background:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../images/kid\ thinking.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+	color:white;
+}
+body {
+	background-color: #e9ecef;
+}
+
+#main_navbar {
+	background-color: black;
+}
+.lead {
+	/*background-color: grey;*/
+	color:white;
+}
+.container-fluid h2{
+	/*font-weight: 2rem;*/
+	font-size: 3rem;
+	font-family:'Libre baskerville', serif;
+}
+.display-6 {
+	font-family:'Libre baskerville', serif;
+	color: #4040a1;
+
+}
+h4 {
+	color:#e9ecef ;
+}
+#yearly-goals {
+	background-color: white;
+}
+#footer{
+	background-color:#343a40;
+}
+#copyright {
+	background-color: black;
+}
